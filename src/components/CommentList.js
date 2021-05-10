@@ -13,7 +13,7 @@ const CommentListDiv = styled.div`
 `;
 
 const CommentItemDiv = styled.div`
-  font-size: 40px;
+  font-size: 12px;
   line-height: 14px;
   clear: both;
   height: 48px;

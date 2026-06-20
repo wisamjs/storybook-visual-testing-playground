@@ -16,7 +16,7 @@ const CommentItemDiv = styled.div`
   font-size: 12px;
   line-height: 14px;
   clear: both;
-  height: 48px;
+  height: 248px;
   margin-bottom: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0 0 10px 0;
   background: linear-gradient(
@@ -28,7 +28,7 @@ const CommentItemDiv = styled.div`
 `;
 
 const AvatarDiv = styled.div`
-  float: left;
+  float: right;
   position: relative;
   overflow: hidden;
   height: 48px;
@@ -40,7 +40,7 @@ const AvatarDiv = styled.div`
 
 const AvatarImg = styled.img`
   position: absolute;
-  height: 100%;
+  height: 25%;
   width: 100%;
   left: 0;
   top: 0;
